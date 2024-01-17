@@ -1,0 +1,27 @@
+.site-header{
+  background-color: rgb(86, 30, 138);
+  align-items: center;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  height: 100vh;  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+}
+.portfolioImage{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  box-shadow: black 2px 5px 5px;
+}
+
+.site-header-content{
+  margin: 10px;
+}
+.links{
+  color: white;
+}
+body{
+  margin: 0;
+}
